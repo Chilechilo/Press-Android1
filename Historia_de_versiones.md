@@ -21,3 +21,5 @@
 -	Android 12 (4 de octubre de 2021)
 -	Android 13 (15 de agosto de 2022)
 -	Android 14 (8 de febrero de 2023)
+
+![alt text](ver.jpg)

@@ -12,3 +12,5 @@
 -	Las aplicaciones pueden llegar a ser de baja calidad más seguido que en otros sistemas operativos
 -	Es más susceptible a hackeos
 -	Puede resultar complejo para usuarios inexpertos
+
+![alt text](cover1.jpg)
